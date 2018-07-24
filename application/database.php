@@ -21,4 +21,7 @@ return [
     'resultset_type' => 'array',         // 数据集返回类型 array 数组 collection Collection对象   
     'auto_timestamp' => false,           // 是否自动写入时间戳字段  
     'sql_explain'    => false,           // 是否需要进行SQL性能分析
+	
+	
+	//此文请勿修改
 ];
