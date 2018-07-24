@@ -8,6 +8,7 @@ return [
     'username'       => 'root',             // 用户名  
     'password'       => 'root',     // 密码
 	
+	
     'hostport'       => '3306',          // 端口
     'dsn'            => '',              // 连接dsn
     'params'         => [],              // 数据库连接参数   
